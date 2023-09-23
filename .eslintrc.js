@@ -13,7 +13,6 @@ module.exports = {
   plugins: ['@typescript-eslint'],
   root: true,
   rules: {
-    'no-console': 'warn',
     '@typescript-eslint/no-unused-vars': 'warn',
     '@typescript-eslint/no-empty-function': 'warn',
     'arrow-body-style': ['error', 'always'],
